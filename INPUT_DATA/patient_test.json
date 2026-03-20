@@ -1,0 +1,41 @@
+[
+  {
+    "FirstName": "Juan",
+    "LastName": "Dela Cruz",
+    "Age": 5,
+    "BirthDate": "2019-03-15",
+    "Gender": "Male",
+    "Address": "Manila, Philippines",
+    "ContactNumber": "09123456789",
+    "DoctorID": 1,
+    "VaccineID": 2,
+    "IsVaccinated": 0,
+    "CreatedAt": "2026-03-17"
+  },
+  {
+    "FirstName": "Maria",
+    "LastName": "Santos",
+    "Age": 3,
+    "BirthDate": "2021-07-22",
+    "Gender": "Female",
+    "Address": "Quezon City, Philippines",
+    "ContactNumber": "09987654321",
+    "DoctorID": 2,
+    "VaccineID": 1,
+    "IsVaccinated": 1,
+    "CreatedAt": "2026-03-17"
+  },
+  {
+    "FirstName": "Carlos",
+    "LastName": "Reyes",
+    "Age": 7,
+    "BirthDate": "2017-11-10",
+    "Gender": "Male",
+    "Address": "Caloocan, Philippines",
+    "ContactNumber": "09111222333",
+    "DoctorID": 1,
+    "VaccineID": 3,
+    "IsVaccinated": 0,
+    "CreatedAt": "2026-03-17"
+  }
+]
