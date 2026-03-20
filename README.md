@@ -38,8 +38,8 @@ The architecture ensures **modularity, scalability, and maintainability**, and s
 |------|---------------|
 | Kennev Francisco | Project Lead, UI/WinForms, Business Logic Layer (Services) |
 | Sean Howard Surigao | Data Access Layer (Repositories) |
-| Diane Varquez | Models & Database Schema (SQLite) |
-| Reyna Francisco | Documentation & Diagrams |
+| Diane Varquez | Documentation |
+| Reyna Francisco | Models & Database Schema (SQLite) |
 
 ## ⚙️ Installation & Usage
 
